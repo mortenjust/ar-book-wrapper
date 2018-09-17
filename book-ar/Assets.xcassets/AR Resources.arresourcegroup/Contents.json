@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "Citizens.arreferenceimage"
+    },
+    {
+      "filename" : "Humane.arreferenceimage"
+    },
+    {
+      "filename" : "Korea.arreferenceimage"
+    },
+    {
+      "filename" : "Seeing.arreferenceimage"
+    },
+    {
+      "filename" : "Shape.arreferenceimage"
+    },
+    {
+      "filename" : "Shenzen.arreferenceimage"
+    },
+    {
+      "filename" : "Understanding.arreferenceimage"
+    }
+  ]
+}
